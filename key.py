@@ -2,8 +2,8 @@
 import os
 import sys
 
-key1=int(input('Key 1: ')) #this is key p
-key2 = int(input("Key 2: "))     #this is key q
+key1=int(input('Key 1: ')) 
+key2 = int(input("Key 2: "))  
 
 key_send  = int(input("Sender Key:"))
 key_receive  = int(input("Reciever Key:"))
